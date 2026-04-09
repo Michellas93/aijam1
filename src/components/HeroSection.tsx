@@ -6,7 +6,7 @@ const HeroSection = () => (
 			<p className="font-label text-[0.75rem] uppercase tracking-[0.2em] text-on-surface-variant mb-6">
 				REACT DEVELOPER
 			</p>
-			<h1 className="font-headline text-[3.5rem] leading-[1.1] font-extrabold tracking-tighter text-on-surface mb-8">
+			<h1 className="font-headline text-[3.5rem] leading-[1.1] font-extrabold tracking-tighter text-violet-600 dark:text-violet-400 mb-8">
 				Vytvářím rychlé a kvalitní React aplikace.
 			</h1>
 			<p className="font-body text-lg text-on-surface-variant leading-relaxed mb-12 max-w-md">
