@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const HeroSection = () => (
 	<section className="min-h-[707px] flex flex-col justify-center px-8 py-40 bg-gradient-to-b from-surface to-primary-container/5">

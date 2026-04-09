@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const ContactSection = () => (
 	<section className="px-8 py-40">

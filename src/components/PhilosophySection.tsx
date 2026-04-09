@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const PhilosophySection = () => (
 	<section className="bg-surface-container-low px-8 py-40">
