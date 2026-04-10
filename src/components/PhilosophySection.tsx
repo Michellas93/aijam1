@@ -5,23 +5,21 @@ const PhilosophySection = () => (
 		<div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-24 items-start">
 			<div className="flex-1">
 				<h2 className="font-headline text-2xl font-bold tracking-tight text-on-surface mb-12 uppercase">
-					FILOZOFIE
+					NÁŠ PŘÍBĚH
 				</h2>
 				<div className="space-y-8 font-body text-xl leading-relaxed text-on-surface">
 					<p>
-						Vývoj webu vnímám jako poctivé řemeslo. Nestačí mi jen, aby věci
-						fungovaly — soustředím se na čistý kód, přehlednou strukturu a
-						dobrou použitelnost.
+						Kavárnu U Zrna jsme otevřeli s jednoduchou myšlenkou: servírovat
+						skvělou kávu bez spěchu a vytvořit místo, kam se lidé rádi vrací.
 					</p>
 					<p className="text-on-surface-variant text-lg">
-						Můj přístup spojuje kvalitní React development s citem pro detail,
-						aby výsledný produkt byl rychlý, srozumitelný a příjemný pro
-						uživatele.
+						Spolupracujeme s malými pražírnami, pečeme každý den čerstvě a věříme,
+						že i krátká kávová pauza může být malý rituál, který zlepší den.
 					</p>
 					<div className="pt-8">
 						<button className="group flex items-center gap-4 font-bold border-b-2 border-primary-container pb-2 hover:border-primary transition-all">
 							<span className="font-label text-sm uppercase tracking-widest">
-								PŘEČTĚTE SI MANIFEST
+								POZNAT NÁŠ PŘÍBĚH
 							</span>
 							<span className="material-symbols-outlined group-hover:translate-x-2 transition-transform">
 								arrow_forward
@@ -34,15 +32,15 @@ const PhilosophySection = () => (
 				<div className="aspect-[3/4] bg-surface-container-highest relative">
 					<img
 						className="w-full h-full object-cover filter grayscale"
-						src="https://lh3.googleusercontent.com/aida-public/AB6AXuCXBFMFRa5E6GksJDqwV8RTeEdbTJ4u-Aep3ec4RMI6f9v1BwQ-uKqfEuHW5z_6cAN2alkhhzFii6kUMEcJB2XwqikwCBOYO575j3HfnBYVZKaLdz07QZXGLsLmEhVFp2IKlbF5NQEsabc1Hr4hyL_5pkd5ILPgviCL4a6CU_D2f_l955eiuoJWg_bRQJ5O5TC6-StApy3xEYZB5v7MO7S512cBL5dTg_TuDcBONNlwwdfz-xl4v4eJWDgRI2DCv7M03edeEKoFeN-S"
-						alt="Portrét"
+						src="https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=1200&q=80"
+						alt="Barista připravuje kávu"
 					/>
 					<div className="absolute -bottom-8 -left-8 bg-surface p-8 shadow-2xl hidden md:block">
 						<p className="font-headline font-bold text-4xl tracking-tighter">
-							08+
+							7 DNÍ
 						</p>
 						<p className="font-label text-[0.65rem] tracking-widest uppercase text-on-surface-variant">
-							LET PRAXE V KÓDU
+							V TÝDNU OTEVŘENO
 						</p>
 					</div>
 				</div>
